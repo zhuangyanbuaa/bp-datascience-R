@@ -1,5 +1,5 @@
 # bp-datascience-R
-A data pipeline in R language
+A data pipeline with R language
 
 Rでデータパイプラインを作成してみる。
 
