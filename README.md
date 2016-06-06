@@ -1,8 +1,6 @@
 # bp-datascience-R
 A data pipeline in R language
 
-A data pipeline in R language
-
 Rでデータパイプラインを作成してみる
 I will try to build a data pipeline with R language in this repo
 
